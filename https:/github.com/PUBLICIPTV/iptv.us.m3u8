@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="NBCWVIT.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="general",NBC
 https://preview.fubo.tv/WVIT/1.m3u8
 #EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="ABC" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/American_Broadcasting_Company_logo_%282007-2013%29.svg/960px-American_Broadcasting_Company_logo_%282007-2013%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="general",ABC
-https://preview.fubo.tv/WTNH/1.m3u8
+https://cdn.telecloud.tv/CH3271/index.m3u8
 #EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="general",Fox
 https://preview.fubo.tv/WTIC/1.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="comedy",FailArmy
@@ -15,8 +15,8 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="sports",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="general",CBS
-https://preview.fubo.tv/WFSB/1.m3u8
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="general",CBS
+https://cdn.telecloud.tv/CH3247/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="news",CBS News 24/7
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="entertainment",People Are Awesome
